@@ -23,5 +23,6 @@ All changes to the project will be documented here.
 ### added
 
 - project restarted
-  -add first new inital commit
-  -created changlog
+- add first new inital commit
+- created changlog
+- code cleanup
