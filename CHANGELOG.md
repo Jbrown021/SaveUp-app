@@ -28,3 +28,5 @@ All changes to the project will be documented here.
 - code cleanup
 - created components folder and basic files
 - global css styling 
+- created more components AddTrans, TransList, Balance, and IncExpenses
+- color to app
