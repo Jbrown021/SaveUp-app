@@ -30,3 +30,4 @@ All changes to the project will be documented here.
 - global css styling 
 - created more components AddTrans, TransList, Balance, and IncExpenses
 - color to app
+- app reducer and global state
