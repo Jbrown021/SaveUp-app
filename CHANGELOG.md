@@ -36,3 +36,4 @@ All changes to the project will be documented here.
 
 ### added
 - trasaction components, test values, some math functions
+- balence test, geen for income red for expences
