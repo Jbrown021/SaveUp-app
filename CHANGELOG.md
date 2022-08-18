@@ -31,3 +31,8 @@ All changes to the project will be documented here.
 - created more components AddTrans, TransList, Balance, and IncExpenses
 - color to app
 - app reducer and global state
+
+## - 8-17-2022
+
+### added
+- trasaction components, test values, some math functions
