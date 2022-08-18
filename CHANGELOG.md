@@ -35,5 +35,13 @@ All changes to the project will be documented here.
 ## - 8-17-2022
 
 ### added
-- trasaction components, test values, some math functions
+- transaction components, test values, some math functions
 - balence test, geen for income red for expences
+- math functions 
+- add transactions delete and transactions functions 
+
+### completed - 8-17-2022
+- react app front-end 
+- app tested and working
+
+
