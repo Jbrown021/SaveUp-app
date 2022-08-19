@@ -44,4 +44,6 @@ All changes to the project will be documented here.
 - react app front-end 
 - app tested and working
 
+## [v3.1.0] - 8-18-2022
+
 
