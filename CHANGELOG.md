@@ -46,4 +46,17 @@ All changes to the project will be documented here.
 
 ## [v3.1.0] - 8-18-2022
 
+### added
+- setting up backend
+- setting up mongoDB
+- setting up postman
+- created initsial routes and req
+- get post and delete
+- testing get post and delete with postman
+- test data to database
+
+## - 8-19-2022
+
+### added
+- 
 
