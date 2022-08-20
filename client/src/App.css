@@ -9,7 +9,12 @@
 }
 
 body {
+  
   background-color: lightgreen;
+  background-image: url("https://time.com/nextadvisor/wp-content/uploads/2021/12/How-Much-Money-Do-I-Need-to-Start-Investing.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover ;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,7 +46,8 @@ h4 {
 }
 
 .inc-exp-container {
-  background-color: #fff;
+  border-radius: 25px;
+  background-color: yellow;
   box-shadow: var(--box-shadow);
   padding: 20px;
   display: flex;
@@ -79,8 +85,9 @@ label {
 
 input[type='text'],
 input[type='number'] {
+  background-color: yellow;
   border: 1px solid #dedede;
-  border-radius: 2px;
+  border-radius: 25px;
   display: block;
   font-size: 16px;
   padding: 10px;
@@ -89,7 +96,8 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: green;
+  border-radius: 50px;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -112,7 +120,8 @@ input[type='number'] {
 }
 
 .list li {
-  background-color: #fff;
+  border-radius: 25px;
+  background-color: yellow;
   box-shadow: var(--box-shadow);
   color: #333;
   display: flex;
