@@ -60,3 +60,5 @@ All changes to the project will be documented here.
 ### added
 - backend frontend intergration 
 
+### issues
+- cannot get project to deploy tried many fixes but none worked howwever app is fully functioning 
