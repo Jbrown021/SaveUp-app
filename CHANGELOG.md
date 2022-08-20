@@ -62,3 +62,24 @@ All changes to the project will be documented here.
 
 ### issues
 - cannot get project to deploy tried many fixes but none worked howwever app is fully functioning 
+
+## - 8-20-2022
+
+### completed
+- saveup app competed
+- back endand frontend connected with mongodb
+- add extra styling to page
+- added a background
+
+
+### technologies used
+
+- React
+- Express
+- Mongoose
+- MongoDB Atlas
+- Postman
+- Axios
+- Colors
+- Morgan
+- Github 
