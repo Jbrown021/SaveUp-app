@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Jbrown021/SaveUp-app/issues"
   },
-  "homepage": "https://github.com/Jbrown021/SaveUp-app#readme",
+  "homepage": "https://github.com/Jbrown021/SaveUp-app/client/public/#index.html",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
